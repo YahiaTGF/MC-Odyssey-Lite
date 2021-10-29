@@ -1,4 +1,4 @@
-# MC-Odyssey-Lite
+# MC Odyssey Lite
 
 A Lite version of MC Odyssey to allow players with lower spec computers to enjoy the adventure that is MC Odyssey. 
 
